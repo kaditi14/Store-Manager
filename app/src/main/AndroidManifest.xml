@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.abc.database">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.CALL_PHONE"/>
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".Contact"></activity>
+        <activity android:name=".RateUs" />
+        <activity android:name=".DashboardActivity" />
+        <activity android:name=".iteminfo" />
+        <activity android:name=".item_single_layout" />
+        <activity android:name=".ItemListActivity" />
+        <activity
+            android:name=".SplashActivity"
+            android:theme="@style/splashtheme">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".NavigationActivity" />
+        <activity android:name=".MyProfileActivity" />
+        <activity android:name=".DeleteItemActivity" />
+        <activity android:name=".PasswordActivity" />
+        <activity android:name=".TransActivity" />
+        <activity android:name=".UserSetting" />
+        <activity android:name=".sale_stock" />
+        <activity android:name=".SearchListItemActivity" />
+        <activity android:name=".Search2Activity" />
+        <activity android:name=".updateActivity" />
+        <activity android:name=".LauncherActiviity" />
+        <activity android:name=".catActivity" />
+        <activity android:name=".loginActivity" />
+        <activity android:name=".MainActivity" />
+    </application>
+
+</manifest>
