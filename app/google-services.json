@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "23128382208",
+    "firebase_url": "https://database-e335a.firebaseio.com",
+    "project_id": "database-e335a",
+    "storage_bucket": "database-e335a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:23128382208:android:1e9a429f87960c93d831e5",
+        "android_client_info": {
+          "package_name": "com.abc.database"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "23128382208-adsgld0fma5ugpj668ns50k27vffe8ps.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.abc.database",
+            "certificate_hash": "7afc2638adff4a485f94379dc65d588a65a9aae7"
+          }
+        },
+        {
+          "client_id": "23128382208-s0sma267jp1b70ep3fd0p0mtlmknolvi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.abc.database",
+            "certificate_hash": "8884ff92f4f2cbd309ffe836410ea50ec69333f0"
+          }
+        },
+        {
+          "client_id": "23128382208-he1hknrmjgs0grn43iggvaid9dp5j36d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlwuBHeijGwiZ-lMnTs6Z4oQZ5i3fTnjE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "23128382208-he1hknrmjgs0grn43iggvaid9dp5j36d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
