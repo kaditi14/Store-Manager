@@ -1,0 +1,7 @@
+<menu xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:id="@+id/dashboard" android:title="Dashboard" android:icon="@drawable/ic_setting"/>
+<item android:id="@+id/setting" android:title="Profile" android:icon="@drawable/ic_setting"/>
+<item android:id="@+id/contact" android:title="Contact Vendor" android:icon="@drawable/ic_baseline_add_circle_outline_24px"/>
+<item android:id="@+id/rateus" android:title="Rate Us" android:icon="@drawable/ic_setting"/>
+<item android:id="@+id/logout" android:title="Logout" android:icon="@drawable/ic_baseline_mood_bad_24px"/>
+</menu>
